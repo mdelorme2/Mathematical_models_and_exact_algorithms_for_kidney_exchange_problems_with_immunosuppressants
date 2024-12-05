@@ -49,6 +49,6 @@ where
 
 ********
 
-Moreover, "_INPUT.rar" contains a txt-file for the nexly generated test instances. 
+Moreover, "_INPUT.rar" contains a txt-file for the newly generated test instances. 
 See "https://wpettersson.github.io/kidney-webapp/#/" for a detailed explanation of the generated instance files.
 
