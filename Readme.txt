@@ -52,3 +52,5 @@ where
 Moreover, "CHAINS/_INPUT.rar" contains a txt-file for the newly generated test instances. 
 See "https://wpettersson.github.io/kidney-webapp/#/" for a detailed explanation of the generated instance files.
 
+## License
+This project is licensed under the [CC BY-NC-ND 4.0](LICENSE.md) license.
