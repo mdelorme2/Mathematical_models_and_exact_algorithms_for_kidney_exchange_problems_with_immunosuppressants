@@ -49,6 +49,6 @@ where
 
 ********
 
-Moreover, "CHAIN/_INPUT.rar" contains a txt-file for the newly generated test instances. 
+Moreover, "CHAINS/_INPUT.rar" contains a txt-file for the newly generated test instances. 
 See "https://wpettersson.github.io/kidney-webapp/#/" for a detailed explanation of the generated instance files.
 
