@@ -23,6 +23,8 @@ The different folders correspond to the following methods in our paper:
 - 5_HCF3LP			| HCF+PICORA+RCVF
 - CHAINS/1_CYCLE3LP_CHAIN1	| CF+PICORA+DPICEF+RCVF
 - CHAINS/1_CYCLE3LP_CHAIN3	| CF+PICORA+IPICEFTH4+RCVF
+- HCA/1_CYCLE_HCA		| CF-HCA
+- HCA/1_CYCLE3_HCA		| CF-VG+PICORA-CG
 
 Each folder contains the same substructure. For example, 1_CYCLE contains the following files:
 - Allocation.cpp		| Contains a number of secondary functions (this file is usually the same for each subfolder)
