@@ -1,7 +1,7 @@
 This repository contains the code for all algorithms discussed in the paper "Mathematical models and exact algorithms for kidney exchange problems with immunosuppressants" by Maxence Delorme, Wendy Liu, and David Manlove. 
 
 Our algorithms are coded in C++ and use the commercial solver Gurobi for the ILP models. 
-This repository containes the 16 solutions methods described in Section 7.1. 
+This repository contains the 16 solution methods described in Section 7.1. 
 In folder CHAIN, the 2 solution methods able to deal with non-directed donors are provided, together with the newly generated KEP instances with 10% of non-directed donors. 
 In folder HCA, the 2 solution methods able to deal with half-compatible arcs are provided. 
 
@@ -52,6 +52,7 @@ where
 - B is the maximum number of reserve arcs allowed 
 - P is the probability for an arc that is not compatible to be half-compatible (only for the models considering half-compatible arcs)
 - S is the random seed (only for the models considering half-compatible arcs)
+
 ********
 
 Moreover, "CHAINS/_INPUT.rar" contains a txt-file for the newly generated test instances. 
